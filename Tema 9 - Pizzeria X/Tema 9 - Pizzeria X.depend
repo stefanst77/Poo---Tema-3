@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1590325463 source:d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\main.cpp
+	<bits/stdc++.h>
+	<PVegetariana.h>
+	<Meniu.h>
+
+1590324397 d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\include\pizza.h
+	<bits/stdc++.h>
+	<ClasaBaza.h>
+
+1590253519 d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\include\clasabaza.h
+	<bits/stdc++.h>
+
+1590244840 source:d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\src\clasabaza.cpp
+	"ClasaBaza.h"
+
+1590320697 source:d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\src\meniu.cpp
+	"Meniu.h"
+
+1590325362 d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\include\meniu.h
+	<bits/stdc++.h>
+	<MyException.h>
+	<vector>
+	<unordered_map>
+	<algorithm>
+
+1590253046 d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\include\myexception.h
+	<bits/stdc++.h>
+	<exception>
+
+1590253133 source:d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\src\myexception.cpp
+	"MyException.h"
+
+1590267723 source:d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\src\pizza.cpp
+	"Pizza.h"
+
+1590324345 source:d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\src\pvegetariana.cpp
+	"PVegetariana.h"
+
+1590324314 d:\studii\facultate\anul i\semestrul ii\poo\proiecte\proiect 3\tema 9 - pizzeria x\include\pvegetariana.h
+	<bits/stdc++.h>
+	<Pizza.h>
+
